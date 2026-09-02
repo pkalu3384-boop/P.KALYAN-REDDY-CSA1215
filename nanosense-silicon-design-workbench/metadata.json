@@ -1,0 +1,6 @@
+{
+  "name": "NanoSense Silicon Design Workbench",
+  "description": "Microcontroller Core Architecture & Hardware Design Simulator for Ultra-Low-Power IoT Sensor Nodes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
